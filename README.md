@@ -14,3 +14,4 @@ webapp --> macos --> andrio
 |BrainDesgin|HCJ|[How to Make a Quiz App using HTML CSS Javascript - Vanilla Javascript Project for Beginners Tutorial](https://www.youtube.com/watch?v=f4fB9Xg2JEY)|70|HCJ，有最高分功能,规范专业|
 |CodeWithSloba|React|[How to Build a Quiz App using React (for Beginners)](https://www.youtube.com/watch?v=UX5HIrxbRUc)|134|完整部署，有最高分功能|
 |CodingArtist|HCJ|[Quiz App With Javascript , Step By Step Javascript Project](https://www.youtube.com/watch?v=p-2G-7vLuV4)|48|有倒计时功能，这个博主是各种小功能集合，code kata｜
+|SoftwareSage|React|[ReactJS / JavaScript Tutorial - Build a Quiz App (Multiple Choice) using React Hooks](https://www.youtube.com/watch?v=x2ef6tQokt0)|15|normal|
