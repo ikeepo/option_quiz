@@ -1,4 +1,6 @@
-export const data = [
+// source: internet
+// [source: shenyinwanguan futures](https://www.sywgqh.com.cn/Pc/Option/Optionschool/Optionquestionnaire)
+export const data = [   
     // {
     //     question: "",
     //     option1: "",
@@ -895,6 +897,8 @@ export const data = [
         option4: "-0.51",
         ans: 4,
     },
+    // shenwanqihuo 50etf level 1
+    // https://www.sywgqh.com.cn/Pc/Option/Optionschool/Optionquestionnaire/63820.html
     {
         question: "买入开仓具有价值归零的风险，下列哪一项错误描述了价值归零风险",
         option1: "到期日股价小于行权价时，认购期权价值归零",
@@ -1078,6 +1082,12 @@ export const data = [
         option3: "",
         option4: "",
         ans: 1,
+        question: "期权合约到期后，期权买方持有人有权以___买入或者卖出相应数量的标的资产",
+        option1: "权利金",
+        option2: "标的价格",
+        option3: "结算价",
+        option4: "行权价格",
+        ans: 4,
     },
     {
         question: "",
